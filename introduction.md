@@ -56,7 +56,7 @@ When you `/withdraw`, tokens are sent from the server treasury to your connected
 ## Getting Help
 
 - **In-game**: `/help` for commands
-- **Discord**: Ask in #support channel
+- **Twitter**: [@KeystoneP2E](https://x.com/KeystoneP2E)
 - **This guide**: Browse the sidebar
 
 Ready to start? Head to [Getting Started](getting-started.md).

@@ -171,4 +171,4 @@ If a command doesn't work:
 1. Check spelling
 2. Check you have permission
 3. Try `/help <command>`
-4. Ask in chat or Discord
+4. Ask in chat

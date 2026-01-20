@@ -176,7 +176,6 @@ Use the [Market](shops.md) to trade items instead.
 | Blockchain | Solana |
 | Type | SPL Token |
 | Decimals | 9 |
-| Contract | [View on Explorer](#) |
 
 ## FAQ
 

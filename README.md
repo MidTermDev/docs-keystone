@@ -36,6 +36,4 @@ play.keystone.gg
 
 ## Links
 
-- Discord: [discord.gg/keystone](#)
-- Twitter: [@KeystoneMC](#)
-- $KEY Token: [Solana Explorer](#)
+- Twitter: [@KeystoneP2E](https://x.com/KeystoneP2E)

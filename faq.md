@@ -157,7 +157,7 @@ Technically yes, but extreme cases may be punished.
 4. Try reconnecting
 
 ### I got kicked for "flying"
-Anti-cheat false positive. Just reconnect. If persistent, report on Discord.
+Anti-cheat false positive. Just reconnect. If persistent, contact staff in-game.
 
 ### My stuff disappeared!
 Contact staff with:
@@ -167,7 +167,7 @@ Contact staff with:
 Staff can check logs and potentially restore items.
 
 ### How do I report a bug?
-Discord #bug-reports channel with:
+Contact staff in-game or DM us on Twitter [@KeystoneP2E](https://x.com/KeystoneP2E) with:
 - Description
 - Steps to reproduce
 - Screenshots if possible
@@ -196,11 +196,10 @@ No. Accounts are non-transferable.
 
 ### How do I contact staff?
 - In-game: Ask in chat, staff have colored names
-- Discord: #support channel
-- Emergency: DM an admin
+- Twitter: DM [@KeystoneP2E](https://x.com/KeystoneP2E)
 
 ### How do I report a player?
-`/report <player> <reason>` or Discord #reports
+`/report <player> <reason>` or DM staff on Twitter
 
 ### How long do appeals take?
 Usually 24-48 hours.
@@ -226,7 +225,7 @@ Usually 24-48 hours.
 
 Ask in:
 - Game chat
-- Discord #questions
+- Twitter [@KeystoneP2E](https://x.com/KeystoneP2E)
 - This documentation
 
 We're happy to help!

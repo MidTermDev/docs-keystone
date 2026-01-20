@@ -152,4 +152,4 @@ You're set up! Here's what to explore next:
 
 - `/help` - Command help
 - Ask in chat - Players are friendly
-- Discord - #support channel
+- Twitter: [@KeystoneP2E](https://x.com/KeystoneP2E)

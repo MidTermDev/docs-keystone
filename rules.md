@@ -160,7 +160,7 @@ By playing on Keystone, you agree to follow these rules. Violations result in wa
 - Take sides in disputes
 
 ### Reporting Staff
-If staff misbehaves, report to admins on Discord with evidence.
+If staff misbehaves, report to admins on Twitter with evidence.
 
 ## Punishments
 
@@ -176,7 +176,7 @@ If staff misbehaves, report to admins on Discord with evidence.
 
 ## Appeals
 
-Banned unfairly? Appeal on Discord.
+Banned unfairly? Appeal by DMing [@KeystoneP2E](https://x.com/KeystoneP2E) on Twitter.
 
 Include:
 - Your username
@@ -188,7 +188,7 @@ Appeals are reviewed within 48 hours.
 
 ## Rule Changes
 
-Rules may be updated. Major changes announced on Discord.
+Rules may be updated. Major changes announced on Twitter.
 
 "I didn't know" is not an excuse - check rules regularly.
 
@@ -201,4 +201,4 @@ Rules may be updated. Major changes announced on Discord.
 4. Don't scam
 5. Have fun
 
-Questions? Ask staff in-game or on Discord.
+Questions? Ask staff in-game or on Twitter [@KeystoneP2E](https://x.com/KeystoneP2E).
